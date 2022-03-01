@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Breviate of the lamentable case of the late Sir William Dick in Scotland his estate, and of his sole son, executor and general successor, with their numerous dispersed desolate families, for the commonwealth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08558</idno>
+            <idno type="STC">Wing B4413A</idno>
+            <idno type="STC">ESTC R175579</idno>
+            <idno type="EEBO-CITATION">61296881</idno>
+            <idno type="OCLC">ocm 61296881</idno>
+            <idno type="VID">180471</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08558)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180471)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2831:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Breviate of the lamentable case of the late Sir William Dick in Scotland his estate, and of his sole son, executor and general successor, with their numerous dispersed desolate families, for the commonwealth.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1667?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dick, William, --  Sir, 1579 or 80-1655 --  Estate.</term>
+               <term>Decedents' estates --  England --  Early works to 1800.</term>
+               <term>Broadsides --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180471:1" rendition="simple:additions"/>
+            <head>Breviate of the Lamentable Caſe of the late Sir <hi>William Dick</hi> in <hi>Scotland</hi> his Eſtate, and of his ſole Son, Ex<g ref="char:EOLhyphen"/>ecutor, and General Succeſſor: With their numerous diſperſed deſolate Families, for the Commonwealth.</head>
+            <p>THe late Sir <hi>William Dick</hi> in the beginning of theſe troubles and com<g ref="char:EOLhyphen"/>motions in the Commonwealth, did appear firſt of all men of his quality in the three Nations, to ſtand in the gap; and for preſerva<g ref="char:EOLhyphen"/>tion of pure Religion from carnal Prelacy, and the thouſands of <hi>Iſrael</hi> from Arbitrary Government, and the juſt priviledges of Parlia<g ref="char:EOLhyphen"/>ments, their Repreſentatives, in their due luſtre and liberty, Did offer up Himſelf, Children, and Friends, at home and abroad, with all their Fortunes, Credit, and Eſtate, in Sacrifice to the ſervice of the Publick, moſt chearfully, and conſtantly all the days of his life, in that <hi>Good old Cauſe,</hi> then the Prayers of the Saints, and ſcope and mark of all true Publick Spirits.</p>
+            <p>That for theſe his unparalleld disburſements, for the Nations, joyntly in the bonds of Brotherhood, and no otherways (and lately ſtated by the then Power and Government to <hi>Sixty ſeven thouſand and three hundred pounds,</hi> to wit, Thirty nine thouſand and five hundred pounds due by <hi>England,</hi> out of the Navy, Papiſts, and Delinquents Eſtates, and Twenty ſeven thouſand and eight hundred pounds by <hi>Scotland</hi> out of the Exciſes and Aſſeſſments there.) He had all ſolemn Promiſes and Proteſtations, Rights and Securities of Parliaments, as Humane Faith, Chriſtian Bonds, or Law could deviſe for his thankful payment. And more particularly, Orders of Parliament dated 28 <hi>November,</hi> 1648. and <hi>October</hi> 1, 1653. with ſeveral Reports of Committees of Parliament, in <hi>September</hi> 1649. and <hi>March,</hi> 1652. yet little or nothing recovered theſe Fifteen years paſt after all painful and expenſive ſolicitation and attendance: But by ſuch unexpected diſ<g ref="char:EOLhyphen"/>appointments of that well-deſerving Debt, his precious time loſt, his life weari<g ref="char:EOLhyphen"/>ed, and died at laſt in the way through heart-break, in all miſery and want. His Children, Executor, and Friends caſt in all diſgraceful priſons, their former plenti<g ref="char:EOLhyphen"/>ful Eſtates ſeiſed upon by the Creditor for the Publick; and their numerous Fami<g ref="char:EOLhyphen"/>lies, with their deſolate Wives, Orphans, and Widows, ready to periſh for want of Bread, by ſuch eminent actions and ſervices in that <hi>Good old Cauſe:</hi> Ah, let not this be heard in <hi>Gath,</hi> nor publiſhed in the ſtreets of <hi>Askalon.</hi>
+            </p>
+            <p>The ſole Son, Executor, and general Succeſſor, with theſe poor languiſhing Fa<g ref="char:EOLhyphen"/>milies of the late Sir <hi>William Dick</hi> his Father, Do now, if not for Juſtice and Righteouſneſs ſake, Honors ſake, general and particular Promiſes ſake; yet hum<g ref="char:EOLhyphen"/>bly pray for Chriſts ſake (by whom this preſent Parliament, after long interruption in the ſecret purpoſe of Gods will, is now again by wonderful divine Providence, ſet down to judge his little ones, as their glory) That after ſo long delays and diſ<g ref="char:EOLhyphen"/>appointment, and ſo many unſupportable ſorrows and preſſures paſſing ſtrength, right and equity may be done to him at laſt; Promiſes and Proteſtations perform<g ref="char:EOLhyphen"/>ed, Ordinances and Orders of this preſent Parliament kept and obeyed, and he paid and ſatisfied of theſe unparalleld disburſements for the Publick, in all the poſſible ways as the preſent juncture of affairs may grant, and the deplorable con<g ref="char:EOLhyphen"/>dition of the Executor may agree to. To the farther praiſe and commendation of Reformed Religion, the honor and glory of the Commonwealth, the greater en<g ref="char:EOLhyphen"/>couragement of the godly and wel-affected party to the Government, to adven<g ref="char:EOLhyphen"/>ture the like ſervices preſently, and hereafter, in the time of Publick ſtreights and difficulties for the people, and the Cities of our God; and the undeniable proof and Sunſhine-evidence of this honorable Parliament, their ſincerity and upright<g ref="char:EOLhyphen"/>neſs of heart in their Declaration dated 7 <hi>May</hi> laſt, for the Work of Reformati<g ref="char:EOLhyphen"/>on by their Righteouſneſs and Juſtice to all men.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
